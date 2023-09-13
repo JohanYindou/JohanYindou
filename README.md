@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hey 👋, I'm Johan
 
+I’m currently learning in the formation named PREPAVENIR as a application developer designer.
 <!--
 **JohanYindou/JohanYindou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
