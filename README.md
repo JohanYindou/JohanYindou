@@ -1,5 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <h1 align="center">Hi 👋, I'm Johan</h1>
 <h3 align="center">I’m currently learning in the formation named PREPAVENIR as a application developer designer.</h3>
+</div>
 
 <p align="left"> <a href="https://twitter.com/johandlag" target="blank"><img src="https://img.shields.io/twitter/follow/johandlag?logo=twitter&style=for-the-badge" alt="johandlag" /></a> </p>
 
