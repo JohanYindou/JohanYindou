@@ -51,7 +51,7 @@ I’m currently learning in the formation named PREPAVENIR as a application deve
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscodefigma" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
   </a>
 </p>
 
