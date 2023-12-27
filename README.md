@@ -9,8 +9,7 @@
   <a href="https://twitter.com/Johandlag">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
-
+  
 ## About Me :
 
 I’m currently learning in the formation named PREPAVENIR as a application developer designer.
