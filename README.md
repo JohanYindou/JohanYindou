@@ -21,7 +21,7 @@ I’m currently learning in the formation named PREPAVENIR as a application deve
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c" />
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
   </a>
 </p>
 
