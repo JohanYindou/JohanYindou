@@ -36,14 +36,14 @@ I’m currently learning in the formation named PREPAVENIR as a application deve
 - Framworks & Libraries
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=symfony,react,bootstrap,express" />
+    <img src="https://skillicons.dev/icons?i=symfony,react,bootstrap,tailwind,mui,express" />
   </a>
 </p>
 
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,tailwind,mui" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   </a>
 </p>
 
